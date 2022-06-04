@@ -1,2 +1,2 @@
 # Donut
-donut in 3D (ASCII)
+donut 3D (ASCII)
